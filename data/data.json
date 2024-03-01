@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "Angular",
+            "detail": "A great framework."
+        },
+        {
+            "id": 21,
+            "title": "React",
+            "detail": "Another great framework."
+        },
+        {
+            "id": 3,
+            "title": "Vue",
+            "detail": "Yet another great framework."
+        }
+
+    ]
+}
